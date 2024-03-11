@@ -1,0 +1,2 @@
+superannotate==4.4.19
+boto3==1.28.0
