@@ -1,0 +1,3 @@
+superannotate==4.4.22
+snowflake==0.10.0
+cryptography==42.0.8
